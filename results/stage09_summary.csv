@@ -1,0 +1,13 @@
+,value
+cv_accuracy,0.998639455782313
+cv_balanced,0.9980314960629921
+p_value,0.004975124378109453
+null_mean,0.5444013605442177
+null_max,0.601360544217687
+n_genes,19962.0
+model_genes_on_array,332.0
+direct_transfer_auc_morph,0.8756105503093454
+direct_transfer_auc_molec,0.9984143763213531
+tcga_called_dlbcl,48.0
+ctsp_called_dlbcl,42.0
+lab_probe_balanced_stage08b,0.854

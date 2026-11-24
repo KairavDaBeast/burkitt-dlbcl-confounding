@@ -1,0 +1,4 @@
+ablation,genes_in_pool,cv_accuracy,cv_balanced,hb_or_malat1_in_top20
+none (rebuild as published),19962,0.9986,0.998,HBB
+HBB only,19961,0.9986,0.998,none
+all hemoglobin genes,19952,0.9986,0.998,none

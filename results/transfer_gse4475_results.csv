@@ -1,0 +1,21 @@
+labels,model,auc,ci_low,ci_high
+"morphology, all",MYC targets,0.7753174861608596,0.6823184630413546,0.8567364050797786
+"morphology, all",top-500 variance,0.8904265711494627,0.8211738847281016,0.9488847281015955
+"morphology, all",matched random sets (mean of 100),0.8009540866167373,0.7483800065125366,0.8396369260827091
+"morphology, all","lab-only model, top-500 variance (orientation-free)",0.5322370563334419,,
+"morphology, all","lab-only model, MYC targets (orientation-free)",0.5737544773689351,,
+"morphology, adults (age >= 18)",MYC targets,0.6967741935483872,0.5625725806451614,0.8216290322580645
+"morphology, adults (age >= 18)",top-500 variance,0.8451612903225807,0.7425403225806452,0.9361532258064517
+"morphology, adults (age >= 18)",matched random sets (mean of 100),0.7477967741935483,0.6960322580645161,0.7944354838709679
+"morphology, adults (age >= 18)","lab-only model, top-500 variance (orientation-free)",0.5290322580645161,,
+"morphology, adults (age >= 18)","lab-only model, MYC targets (orientation-free)",0.5025806451612903,,
+"molecular, all",MYC targets,0.8091966173361522,0.7170542635658916,0.8830294221282594
+"molecular, all",top-500 variance,0.9874911909795631,0.9700449260042283,0.9998238195912614
+"molecular, all",matched random sets (mean of 100),0.8750035236081747,0.8121652572233968,0.922436575052854
+"molecular, all","lab-only model, top-500 variance (orientation-free)",0.5479210711768852,,
+"molecular, all","lab-only model, MYC targets (orientation-free)",0.6520436927413671,,
+"molecular, adults (age >= 18)",MYC targets,0.8094488188976379,0.690501968503937,0.9153543307086613
+"molecular, adults (age >= 18)",top-500 variance,0.9976377952755906,0.991732283464567,1.0
+"molecular, adults (age >= 18)",matched random sets (mean of 100),0.8895787401574803,0.8311023622047244,0.9442125984251968
+"molecular, adults (age >= 18)","lab-only model, top-500 variance (orientation-free)",0.5653543307086615,,
+"molecular, adults (age >= 18)","lab-only model, MYC targets (orientation-free)",0.6035433070866142,,

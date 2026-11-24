@@ -1,0 +1,3 @@
+cohort,n,called_DLBCL,fraction,mean_P_DLBCL,median_P_DLBCL,model_genes_missing
+TCGA-DLBC,48,48,1.0,0.9991,0.9999,0
+CTSP-DLBCL1,44,42,0.9545,0.9494,0.9999,0

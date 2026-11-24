@@ -1,0 +1,22 @@
+gene,note,model_coef,diff_same_lab,p_same_lab,diff_rnaseq,holds_up
+RASL11A,not on GSE4475 array,,,,,
+LRRC15,,-0.1372,-0.25,3.8e-05,-0.11,False
+FABP4,,0.1362,0.53,0.013,-0.86,False
+ZNF460,,-0.1302,-0.02,0.55,4.92,False
+TESC,,0.1271,-0.57,4.7e-06,-3.15,True
+HBB,,-0.1268,0.25,0.3,0.09,False
+ASB2,not on GSE4475 array,,,,,
+CNR1,,0.1175,-0.07,0.045,0.17,True
+SPDYE5,not on GSE4475 array,,,,,
+KMT2C,not on GSE4475 array,,,,,
+CHST2,,0.107,-1.02,6.3e-11,-2.84,True
+SLC30A4,,-0.1053,0.06,0.12,2.8,False
+IL1RN,,-0.1022,-0.04,0.5,-0.96,False
+BPTF,,-0.1021,0.32,1.1e-05,3.27,True
+CXCL13,,0.1018,-1.53,1.3e-06,-4.62,True
+RAB33A,,0.1008,-0.81,4.3e-09,-2.91,True
+TFDP2,,-0.1002,1.17,9.4e-15,3.27,True
+BTNL9,not on GSE4475 array,,,,,
+TMSB10,,0.0982,-0.0,0.98,-4.29,False
+RGS13,,0.098,0.09,0.78,-0.23,False
+MYC,,,0.94,5.6e-08,1.83,

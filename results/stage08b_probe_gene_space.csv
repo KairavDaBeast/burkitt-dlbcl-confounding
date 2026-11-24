@@ -1,0 +1,6 @@
+gene_set,n_genes,probe_log2_only,probe_quantile
+all genes (Stage 05 set),60660,0.9972,0.9951
+non-coding only,40698,0.9972,0.9972
+"protein-coding, all",19962,0.8167,0.8556
+"protein-coding, expressed",13014,0.8271,0.841
+shared with array (Stage 08 set),9040,0.7569,0.7306

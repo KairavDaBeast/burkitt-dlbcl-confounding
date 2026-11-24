@@ -1,0 +1,14 @@
+,value
+genes,9040.0
+rho,0.42261051407721195
+ci_low,0.36002090066539766
+ci_high,0.46495561245286654
+rho_lab_only,0.03308245129398497
+strong_genes,58.0
+direction_agreement,0.9827586206896551
+r2,0.20886068424143028
+n_bl_rnaseq,254.0
+n_dlbcl_rnaseq,481.0
+n_tcga,48.0
+n_bl_array,37.0
+n_dlbcl_array,166.0

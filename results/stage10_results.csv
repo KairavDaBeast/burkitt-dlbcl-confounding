@@ -1,0 +1,12 @@
+test,cohort,n,metric,value,detail
+A: protein-coding model,"CGCI-HTMCP-DLBCL (BCGSC, same protocol as BL)",55,fraction called DLBCL,0.10909090909090909,6/55; DLBCL-diagnosis subset 5/43; median P(DLBCL) 0.035
+A2: old all-gene model,"CGCI-HTMCP-DLBCL (BCGSC, same protocol as BL)",55,fraction called DLBCL,0.05454545454545454,3/55; DLBCL-diagnosis subset 0/43; median P(DLBCL) 0.000
+"D: same lab, BL vs HTMCP-DLBCL",BCGSC only,309,CV balanced accuracy,0.8830350751610594,"disease differs, lab constant (HIV status differs)"
+"D: lab probe, NCICCR vs HTMCP","two labs, both DLBCL",220,CV balanced accuracy,1.0,"lab differs, disease constant"
+B: pediatric same-lab,"GSE10172 (Kiel, U133A, children)",27,AUC (BL vs DLBCL),0.9835164835164835,95% CI 0.934-1.000; BL 13 vs DLBCL 14; 332/500 model genes on array
+C: Leeds GSE69049,"GSE69049 (GPL8432, DASL FFPE)",75,AUC (BL vs DLBCL),0.8,95% CI 0.691-0.889; BL 40 vs DLBCL 35; 385/500 model genes on array
+C: Leeds GSE69051,"GSE69051 (GPL14951, DASL FFPE)",159,AUC (BL vs DLBCL),0.9313484251968503,95% CI 0.876-0.976; BL 32 vs DLBCL 127; 405/500 model genes on array
+C: Leeds pooled,GSE69049 + GSE69051,234,AUC (BL vs DLBCL),0.8467078189300411,95% CI 0.786-0.902; BL 72 vs DLBCL 162; 405/500 model genes on array
+"C: Leeds pooled, adults","GSE69049 + GSE69051, age >= 18",198,AUC (BL vs DLBCL),0.8103266596417281,95% CI 0.733-0.879; BL 52 vs DLBCL 146; 405/500 model genes on array
+Exploratory: within-BL FFPE vs frozen,CGCI-BLGSP,243,Mann-Whitney p (oof score),2.923573534314577e-07,median score FFPE -12.82 (n=118) vs frozen -11.32 (n=125); misclassified BL: 1
+Exploratory: BL-NOS only vs NCICCR,training,699,CV balanced accuracy,0.9977064220183487,218 BL-NOS patients

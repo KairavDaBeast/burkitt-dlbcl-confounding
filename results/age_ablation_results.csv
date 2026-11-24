@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,BL_correct,BL_total,DLBCL_correct,DLBCL_total
+baseline (nothing removed),0.998639455782313,0.9980314960629921,253,254,481,481
+"remove age genes, FDR < 0.05 (primary)",0.998639455782313,0.9980314960629921,253,254,481,481
+"remove age genes, |rho| >= 0.3 (secondary)",0.998639455782313,0.9980314960629921,253,254,481,481

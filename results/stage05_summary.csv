@@ -1,0 +1,7 @@
+,value
+cv_accuracy,0.998639455782313
+cv_balanced,0.9980314960629921
+probe_accuracy_mean,0.9166666666666667
+probe_balanced_mean,0.8555555555555555
+probe_balanced_sd,0.011536977587386211
+n_train_genes,19962.0

@@ -1,0 +1,7 @@
+part,model,accuracy,balanced,auc
+A_cv,"top-500 variance, all genes",0.998639455782313,0.9980314960629921,0.9995334522893579
+A_cv,MYC targets (240 genes),0.9972789115646259,0.9960629921259843,1.0
+A_cv,matched random mean (100),0.9985034013605439,0.9978346456692916,0.9999947615695648
+B_lab_probe,top-500 variance,,0.8555555555555555,
+B_lab_probe,MYC targets,,0.9673611111111111,
+B_lab_probe,matched random mean (20),,0.9404861111111111,
