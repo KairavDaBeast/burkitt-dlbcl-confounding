@@ -1,0 +1,7 @@
+{
+  "intercept": 2.5127878498361014,
+  "positive_class": "DLBCL",
+  "n_train_bl": 254,
+  "n_train_dlbcl": 481,
+  "trained": "2026-11-20, CGCI-BLGSP tumour samples vs NCICCR-DLBCL, GDC STAR-Counts tpm_unstranded"
+}
